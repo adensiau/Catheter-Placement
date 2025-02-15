@@ -13,11 +13,6 @@ This project focuses on classifying catheter placements in X-ray images using de
 * Model explainability using LIME to visualize predictions
 
   
-**🖼️ Screenshots**
-
-(Insert model architecture, sample images, and results here)
-
-
 **📂 Dataset/Resources**
 
 * X-ray images of catheters
